@@ -9,7 +9,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const { default: About } = require('./src/pages/about');
+//const { default: About } = require('./src/pages/about');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
